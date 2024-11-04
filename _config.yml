@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mengchen Cai / Personal Homepage"
+title                    : "Mengchen Cai"
 title_separator          : "-"
 name                     : &name "Mengchen Cai"
 description              : &description "personal description"
