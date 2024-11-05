@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 
-date: 2024
+date: 2024-6-7
 venue: '2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)'
 paperurl: 
 citation: 
