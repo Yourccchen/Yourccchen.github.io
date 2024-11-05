@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.E. in College of ENgineering, **Peking University(PKU)**, 2028(expected)
+* B.E. in College of Electrical Engineering, **Sichuan University(SCU)**, 2025
 
-Work experience
+Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+***1. Awards***
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  ***First Prize***, National College Student Mathematical Contest(2023)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  ***Second Prize***, National College Student Intelligent Vehicle Competition(2023)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*  ***Third Prize***, Robomaster Competition(2024)
+
+*  ***Third Prize***, Electrical and Electronic Engineering Innovation Competition(twice,2022 and 2024)
+
+*  ***Third Prize***, Asia-Pacific Mathematical Contest in Modeling(2022)
+***2. Honors***
+   
+*  ***Top 100 Students***, SCU(2024)
+
+*  ***Merit Student***, SCU(2022)
+
+*  ***Outstanding Graduates***, Sichuan Province, China(2025)
+
+*  ***Outstanding Graduates***, SCU(2025)
+
+***3. Scholarships***
+   
+*   ***The First Prize Scholarship***, SCU(2022-2024)
+
+*   ***Yangtze Power Scholarship***(2023)
+
