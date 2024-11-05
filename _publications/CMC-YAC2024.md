@@ -6,6 +6,6 @@ permalink: /_publications/CMC-YAC2024
 excerpt: 
 date: 2024-6-7
 venue: '2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)'
-paperurl: https://doi.org/10.1109/YAC63405.2024.10598815
+paperurl: /assets/pubfile/YAC2024.pdf
 citation: 
 ---
