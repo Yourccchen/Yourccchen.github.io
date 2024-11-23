@@ -28,7 +28,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/YAC2024.png"><img src='images/YAC2024.png' alt="YAC2024" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/YAC2024.png"><img src='images/YAC2024.png' alt="YAC2024" width="60%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> \\
