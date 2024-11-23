@@ -80,6 +80,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 💻 Internships
 - *2024.07 - 2024.08*, HighGreat Innovation Technology Development Company, Shenzhen.
+- *2024.07 - 2023.08*, Fitzwilliam College, University of Cambridge, UK
 
 <!--
 # 💬 Invited Talks
