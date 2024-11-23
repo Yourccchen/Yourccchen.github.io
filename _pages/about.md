@@ -22,14 +22,14 @@ Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation, 
 
 My research interest includes Robotics, Control and Optimization, Human-Robot Integration.I'm passionate about exploring these fields and look forward to making contributions in the future research journey.
 
+# 🎓 Educations
+
+- *2021.09 - 2025.06 (now)*,  B.E., Automation, **Sichuan University**.
+
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I got admitted by the College of Engineering, Peking University.
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by YAC 2024!
 - *2024.04*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, One of the highest honors in SCU.)
-
-# 🎓 Educations
-
-- *2021.09 - 2025.06 (now)*,  B.E., Automation, **Sichuan University**.
 
 # 📝 Publications 
 
@@ -37,10 +37,10 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
   <div class='paper-box-image'>
     <div><div class="badge"></div><p align = "center"><img src='images/YAC2024.png' alt="YAC2024" width="60%"></p></div></div>
   <div class='paper-box-text' markdown="1">
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> \\
- *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* \\
-**<font color="#C00000">Mengchen Cai</font>**, Tao Zhao \\
-[<a href="/files/YAC2024">PDF</a>] \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> <br>
+ *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* <br>
+**<font color="#C00000">Mengchen Cai</font>**, Tao Zhao <br>
+[<a href="/files/YAC2024">PDF</a>] <br>
   </div>
 </div>
 
