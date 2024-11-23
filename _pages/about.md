@@ -17,42 +17,68 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation, [**Sichuan University**](https://scu.edu.cn).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes Robotics, Control and Optimization, Human-Robot Integration.I'm passionate about exploring these fields and look forward to making contributions in the future research journey.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 I got admitted by the College of Engineering, Peking University.
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by YAC 2024!
+- *2024.04*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, One of the highest honors in SCU.)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/YAC2024.png"><img src='images/YAC2024.png' alt="YAC2024" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> \\
+ *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* \\
+**<font color="#C00000">Mengchen Cai</font>**, Tao Zhao \\
+[<a href="https://ieeexplore.ieee.org/document/10598815">PDF</a>] \\
 </div>
 </div>
 
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+**1. Awards**
+
+*  ***First Prize***, National College Student Mathematical Contest. (2023)
+
+*  ***Second Prize***, National College Student Intelligent Vehicle Competition. (2023)
+
+*  ***Third Prize***, Robomaster Competition. (2024)
+
+*  ***Third Prize***, Electrical and Electronic Engineering Innovation Competition. (2022 and 2024)
+
+*  ***Third Prize***, Asia-Pacific Mathematical Contest in Modeling. (2022)
+
+**2. Honors**
+   
+*  ***Top 100 Students***, SCU. (2024)
+
+*  ***Merit Student***, SCU. (2022)
+
+*  ***Outstanding Graduates***, Sichuan Province, China. (2025)
+
+*  ***Outstanding Graduates***, SCU. (2025)
+
+**3. Scholarships**
+   
+*   ***The First Prize Scholarship***, SCU. (2022-2024)
+
+*   ***Yangtze Power Scholarship***. (2023)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+- *2021.09 - 2025.06 (now)*,  B.E., Automation, **Sichuan University**.
+
+<!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.08*, HighGreat Innovation Technology Development Company, Shenzhen.
