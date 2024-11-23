@@ -40,7 +40,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> <br>
  *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* <br>
 **<font color="#C00000">Mengchen Cai</font>**, Tao Zhao <br>
-[<a href="/files/YAC2024">PDF</a>] <br>
+[<a href="/files/YAC2024.pdf">PDF</a>] <br>
   </div>
 </div>
 
