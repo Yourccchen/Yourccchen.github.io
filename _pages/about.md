@@ -86,4 +86,4 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 # 💬 Invited Talks
 -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=XCzDzxeXzKvsB6985IugWptau8lekrVX_1YWlmS5DTg&cmo=c57b12'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=XCzDzxeXzKvsB6985IugWptau8lekrVX_1YWlmS5DTg&co=2d78ad&cmo=ff9000&cmn=00b92d&ct=ffffff'></script>
