@@ -28,8 +28,8 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I got admitted by the College of Engineering, Peking University.
-- *2024.05*: &nbsp;🎉🎉 One paper was accepted by YAC 2024!
-- *2024.04*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, One of the highest honors in SCU.)
+- *2024.05*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, one of the highest honors in SCU.)
+- *2024.04*: &nbsp;🎉🎉 One paper was accepted by YAC 2024!
 
 # 📝 Publications 
 
@@ -80,7 +80,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 💻 Internships
 - *2024.07 - 2024.08*, HighGreat Innovation Technology Development Company, Shenzhen.
-- *2024.07 - 2023.08*, Fitzwilliam College, University of Cambridge, UK
+- *2023.07 - 2023.08*, Fitzwilliam College, University of Cambridge, UK
 
 <!--
 # 💬 Invited Talks
