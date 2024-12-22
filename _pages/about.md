@@ -25,7 +25,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 # 🎓 Educations
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge"></div><p align = "center"><img src='images/PKU.png' alt="PKU" width="60%"></p></div></div>
+    <div><p align = "center"><img src='images/PKU.png' alt="PKU" width="20%"></p></div></div>
   <div class='paper-box-text' markdown="1">
   **Incoming M.E. Student 25'Fall** 
   </div>
