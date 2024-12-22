@@ -23,13 +23,8 @@ Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation a
 My research interest includes Robotics, Control and Optimization, Human-Robot Integration. I'm passionate about exploring these fields and look forward to making contributions in the future research journey. Welcome to contact and communicate with me.
 
 # 🎓 Educations
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><p align = "center"><img src='images/PKU.png' alt="PKU" width="20%"></p></div></div>
-  <div class='paper-box-text' markdown="1">
-  **Incoming M.E. Student 25'Fall** 
-  </div>
-</div>
+
+- *25'Fall*, Incoming M.E. Student, Robotics, **Peking University**.
 - *2021.09 - 2025.06 (now)*,  B.Eng, Automation, **Sichuan University**.
 
 # 🔥 News
