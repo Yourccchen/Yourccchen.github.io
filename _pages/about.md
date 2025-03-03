@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 About Me
-Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation at Wu Yuzhang Honors College, [**Sichuan University**](https://scu.edu.cn). Currently, I am fortunate to be advised by Prof. [Lecheng Ruan](https://leleucla.github.io/) and Prof. Qining Wang.
+Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation at Wu Yuzhang Honors College, [**Sichuan University**](https://scu.edu.cn). Currently, I am fortunate to be advised by Prof. [Lecheng Ruan](https://leleucla.github.io/) and Prof. [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=232).
 
 My research interest includes Robotics, Control and Optimization, Human-Robot Integration. I'm passionate about exploring these fields and look forward to making contributions in the future research journey. Welcome to contact and communicate with me.
 
