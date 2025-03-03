@@ -36,17 +36,6 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge"></div><p align = "center"><img src='images/YAC2024.png' alt="YAC2024" width="60%"></p></div></div>
-  <div class='paper-box-text' markdown="1">
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> <br>
- *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* <br>
-**<font color="#C00000">Mengchen Cai</font>**, Tao Zhao <br>
-[<a href="/files/YAC2024.pdf">PDF</a>] <br>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
     <div><div class="badge"></div><p align = "center"><img src='images/CCC2025.png' alt="CCC2025" width="60%"></p></div></div>
   <div class='paper-box-text' markdown="1">
 <a class=PaperTitle ><b>Obstacle Avoidance for Knee Prostheses via Direct Integration of Environment Information(submitted)</b></a> <br>
@@ -54,6 +43,17 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 Wenduo Zhu*, **<font color="#C00000">Mengchen Cai*</font>**, Haofei Hou, Shunyi Zhao, Lecheng Ruan and Qining Wang <br>
 *:contribute equally to this work
 <!-- [<a href="/files/YAC2024.pdf">PDF</a>] <br> -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge"></div><p align = "center"><img src='images/YAC2024.png' alt="YAC2024" width="60%"></p></div></div>
+  <div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> <br>
+ *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* <br>
+**<font color="#C00000">Mengchen Cai</font>**, Tao Zhao <br>
+[<a href="/files/YAC2024.pdf">PDF</a>] <br>
   </div>
 </div>
 
