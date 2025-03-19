@@ -41,7 +41,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 <a class=PaperTitle ><b>Obstacle Avoidance for Knee Prostheses via Direct Integration of Environment Information(submitted)</b></a> <br>
  *2025 44th Chinese Control Conference (CCC)* <br>
 Wenduo Zhu*, **<font color="#C00000">Mengchen Cai*</font>**, Haofei Hou, Shunyi Zhao, Lecheng Ruan and Qining Wang <br>
-*:contribute equally to this work
+*:contributed equally to this work
 <!-- [<a href="/files/YAC2024.pdf">PDF</a>] <br> -->
   </div>
 </div>
