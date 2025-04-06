@@ -28,9 +28,10 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 - *2021.09 - 2025.06 (now)*,  B.Eng, Automation, **Sichuan University**.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted by CCC 2025.
 - *2024.09*: &nbsp;🎉🎉 I got admitted by the College of Engineering, Peking University.
 - *2024.05*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, one of the highest honors in SCU.)
-- *2024.04*: &nbsp;🎉🎉 One paper was accepted by YAC 2024!
+- *2024.04*: &nbsp;🎉🎉 One paper was accepted by YAC 2024.
 
 # 📝 Publications 
 
