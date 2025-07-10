@@ -24,7 +24,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 🎓 Educations
 
-- *2025.09 - 2028.06*, Incoming M.E. Student, Robotics, **Peking University**.
+- *2025.09 - 2028.06*,  M.E. Student, Robotics, **Peking University**.
 - *2021.09 - 2025.06*,  B.Eng, Automation, **Sichuan University**.
 
 # 🔥 News
