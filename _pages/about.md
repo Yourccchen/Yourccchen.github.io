@@ -24,10 +24,11 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 
 # 🎓 Educations
 
-- *25'Fall*, Incoming M.E. Student, Robotics, **Peking University**.
-- *2021.09 - 2025.06 (now)*,  B.Eng, Automation, **Sichuan University**.
+- *2025.09 - 2028.06*, Incoming M.E. Student, Robotics, **Peking University**.
+- *2021.09 - 2025.06*,  B.Eng, Automation, **Sichuan University**.
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICIRA 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted by CCC 2025.
 - *2024.09*: &nbsp;🎉🎉 I got admitted by the College of Engineering, Peking University.
 - *2024.05*: &nbsp;🏆🏆 I was awarded with the **SCU Top 100 Students**. (Top 0.25%, one of the highest honors in SCU.)
