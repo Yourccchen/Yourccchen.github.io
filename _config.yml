@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengchen Cai"
   avatar           : "images/profile.png"
-  bio              : "SCU, PKU(next)"
-  location         : "Chengdu, Beijing(next)"
+  bio              : "SCU, PKU"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=LdU9AngAAAAJ"
