@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 About Me
-Hi 👋! I am Mengchen Cai(蔡孟宸), a senior student majoring in Automation at Wu Yuzhang Honors College, [**Sichuan University**](https://scu.edu.cn). Currently, I am fortunate to be advised by Prof. [Lecheng Ruan](https://leleucla.github.io/) and Prof. [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=232).
+Hi 👋! I am Mengchen Cai(蔡孟宸), I completed my undergraduate studies at Sichuan University. Currently, I am studying at the College of Engineering, Peking University, under the supervision of Prof. [Lecheng Ruan](https://leleucla.github.io/) and Prof. [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=232).
 
 My research interest includes Robotics, Control and Optimization, Human-Robot Integration. I'm passionate about exploring these fields and look forward to making contributions in the future research journey. Welcome to contact and communicate with me.
 
@@ -35,6 +35,18 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by YAC 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge"></div><p align = "center"><img src='images/ICIRA2025.png' alt="ICIRA2025" width="60%"></p></div></div>
+  <div class='paper-box-text' markdown="1">
+<a class=PaperTitle ><b>Knee Prosthesis Stair Ascending with Adaptive Clearance and Foot Placement</b></a> <br>
+ *The 18th International Conference on Intelligent Robotics and Applications* <br>
+Wenduo Zhu*, **<font color="#C00000">Mengchen Cai*</font>**, Haofei Hou, Shunyi Zhao, Lecheng Ruan and Qining Wang <br>
+*:contributed equally to this work
+<!-- [<a href="/files/YAC2024.pdf">PDF</a>] <br> -->
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
