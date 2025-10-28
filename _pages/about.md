@@ -40,7 +40,7 @@ My research interest includes Robotics, Control and Optimization, Human-Robot In
   <div class='paper-box-image'>
     <div><div class="badge"></div><p align = "center"><img src='images/ICIRA2025.png' alt="ICIRA2025" width="60%"></p></div></div>
   <div class='paper-box-text' markdown="1">
-<a class=PaperTitle ><b>Knee Prosthesis Stair Ascending with Adaptive Clearance and Foot Placement</b></a> <br>
+<a class=PaperTitle href="https://link.springer.com/chapter/10.1007/978-981-95-2095-4_38"><b>Knee Prosthesis Stair Ascending with Adaptive Clearance and Foot Placement</b></a> <br>
  *The 18th International Conference on Intelligent Robotics and Applications* <br>
 Wenduo Zhu*, **<font color="#C00000">Mengchen Cai*</font>**, Haofei Hou, Shunyi Zhao, Lecheng Ruan and Qining Wang <br>
 *:contributed equally to this work
@@ -67,7 +67,7 @@ Wenduo Zhu*, **<font color="#C00000">Mengchen Cai*</font>**, Haofei Hou, Shunyi 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10598815"><b>Coupling Analysis and Feedforward Compensation Design of Two-axis Gimbal Controller</b></a> <br>
  *2024 39th Youth Academic Annual Conference of Chinese Association of Automation (YAC)* <br>
 **<font color="#C00000">Mengchen Cai</font>**, Tao Zhao <br>
-[<a href="/files/YAC2024.pdf">PDF</a>] <br>
+<!-- [<a href="/files/YAC2024.pdf">PDF</a>] <br> -->
   </div>
 </div>
 
